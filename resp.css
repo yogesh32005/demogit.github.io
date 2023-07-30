@@ -1,0 +1,14 @@
+@media screen and (max-width:400px) {
+    .contenar{
+        width: 100%;
+        height: 550px;
+        background: url(image/hamburger.jpg);
+    }
+    nav{
+        width: 400px;
+        height: 50px;
+    }
+    .right{
+        float: left;
+    }
+}
